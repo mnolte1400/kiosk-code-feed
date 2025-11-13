@@ -1,5 +1,1 @@
-{
-  "current_kiosk_code": "HILT1",
-  "expires_on": "November 16, 2025",
-  "expires_at": "11:59 PM"
-}
+JSON.stringify($json, null, 2)
